@@ -1,0 +1,43 @@
+.header {
+    padding: 30px;
+    background: darkred;
+    color: white;
+}
+
+.sub-header {
+    padding: 30px;
+    background: darkslategrey;
+    text-align: right;
+}
+.body {
+    padding: 30px;
+    font-size: 20;
+    float: left;
+}
+
+a {
+    color: white;
+}
+
+p {
+    font-size: 23px;
+}
+
+section {
+    background: white;
+    float: left;
+    width: 70%;
+    padding: 20px;
+}
+
+aside {
+    background: white;
+    float: right;
+    width: 25%;
+    padding: 20px;
+}
+
+.footer {
+    background-color: darkslategrey;
+    padding: 30px;
+}
